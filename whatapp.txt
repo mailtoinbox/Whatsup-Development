@@ -1,0 +1,11 @@
+This is whats app code
+
+Developer :- sundhar
+
+1. profile page code
+
+2. chat screen code
+
+3. Last seen code
+
+4. Attachments (image, audio, video) code
